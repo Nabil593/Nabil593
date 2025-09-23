@@ -14,6 +14,7 @@ I'm a Full Stack Developer specializing in **MERN stack** with a passion for bui
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FF6F61?style=for-the-badge&logo=chatgpt&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
