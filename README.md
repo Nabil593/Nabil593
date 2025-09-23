@@ -1,3 +1,6 @@
+# Hi, I'm Nabil 👋
+
+I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shariea-reza-nabil-99462436a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabilreza183@gmail.com) 
