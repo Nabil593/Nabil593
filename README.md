@@ -24,6 +24,6 @@ I'm a Full Stack Developer specializing in **MERN stack** with a passion for bui
 
 ## 🌐 Where to find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shariea-reza-nabil-99462436a) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](nabilreza183@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:nabilreza183@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/Nabilreza183)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
