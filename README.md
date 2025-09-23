@@ -1,9 +1,9 @@
 # Hi, I'm Nabil 👋
 
-I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
-I’m passionate about coding, problems I embrace,
-Exploring, learning, always in the race.
-Self-taught and driven, curiosity my key,
+I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.<br/>
+I’m passionate about coding, problems I embrace,<br/>
+Exploring, learning, always in the race.<br/>
+Self-taught and driven, curiosity my key,<br/>
 Building, solving, growing—this is me.
 
 # 💻 Tech Stack:
