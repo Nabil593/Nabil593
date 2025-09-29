@@ -1,4 +1,4 @@
-# Hi, I'm Nabil 👋
+# Hi, I'm Shariea Reza Nabil 👋
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
 ## 🚀 About Me
