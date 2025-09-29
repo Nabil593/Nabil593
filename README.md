@@ -1,4 +1,3 @@
-<img width="1584" height="396" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/824b959f-744a-4fdb-be8a-4394132b2de0" />
 # Hi, I'm Shariea Reza Nabil 👋
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
