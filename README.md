@@ -2,7 +2,8 @@
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://github.com/user-attachments/assets/902d9d3b-b08d-47fd-9390-825ff1dbc450) #About Me
+![Alt text](https://github.com/username/repo/raw/main/path/to/emoji.gif)#About Me
+
 🚀 **Passionate about coding, problem solving, and exploring new tech.**  
 📚 **Self-taught learner constantly improving my skills.**  
 💻 **Focused on building full stack applications with real-world impact.**  
