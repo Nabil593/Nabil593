@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=5000&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Full+Stack+Developer;I'm+AI+Enthusiast+%E2%9C%A9" />
+  <span style="font-size:40px; font-family:Inconsolata; font-weight:500; color:#A7A459;">
+    I'm&nbsp;
+  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=5000&pause=2500&color=A7A459&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast+✩" />
 </div>
+
 
 
 
