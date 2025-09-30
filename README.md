@@ -2,6 +2,9 @@
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
 
+<img src="https://github.com/username/repo/raw/main/path/to/emoji.gif" width="30" height="30">
+
+
 ![Alt text](https://github.com/username/repo/raw/main/path/to/emoji.gif)#About Me
 
 🚀 **Passionate about coding, problem solving, and exploring new tech.**  
