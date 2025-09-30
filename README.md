@@ -1,4 +1,5 @@
 # Hi, I'm Shariea Reza Nabil 👋
+<img width="1584" height="396" alt="Linkedin-Ultra-Pro" src="https://github.com/user-attachments/assets/555c0278-6a35-422a-ad4b-06278ac187d5" />
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
 ## 🚀 About Me
