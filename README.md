@@ -7,8 +7,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=7000&pause=3000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil;I'm+Full+Stack+Developer;I'm+AI+Enthusiast+✩" />
+  <!-- 'I'm' ফিক্সড থাকবে -->
+  <h2>
+    I'm&nbsp;
+    <!-- Typing effect -->
+    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=5000&pause=2000&color=A7A459&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast+✩" />
+  </h2>
 </div>
+
 
 
 
