@@ -1,19 +1,12 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Coder;I'm+Full+Stack+Developer+%20+%7C+%20+AI+Enthusiast+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Coder" width="70%" />
 </div>
-
+<br/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3500&pause=3000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Full+Stack+Developer;I'm+AI+Enthusiast+%E2%9C%A9" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4500&pause=3000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil;I'm+Full+Stack+Developer;I'm+AI+Enthusiast+%E2%9C%A9" />
 </div>
 
-
-
-
-
-
-
-
-
+<br/>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... 
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
