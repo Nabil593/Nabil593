@@ -3,13 +3,9 @@
 </div>
 
 <div align="center">
-
-  <h2>
-    I'm 
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=5000&pause=2500&color=A7A459&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast+✩" />
-  </h2>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=2000&pause=2000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Full+Stack+Developer;I'm+AI+Enthusiast+✩&speed=80&deleteSpeed=80" />
 </div>
+
 
 
 
