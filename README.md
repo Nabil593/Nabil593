@@ -3,6 +3,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... 
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
+
 🚀 **Passionate about coding, problem solving, and exploring new tech.**  
 📚 **Self-taught learner constantly improving my skills.**  
 💻 **Focused on building full stack applications with real-world impact.**  
