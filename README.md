@@ -2,6 +2,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Coder;I'm+Full+Stack+Developer+%20+%7C+%20+AI+Enthusiast+%E2%9C%A9" width="70%" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=1500&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer;AI+Enthusiast+%E2%9C%A9" width="70%" />
+</div>
+
+
 # Hi, I'm Shariea Reza Nabil 👋
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... 
