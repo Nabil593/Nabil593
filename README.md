@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Welcome+To+My+GitHub+Profile" width="70%" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4500&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil;I'm+a+Full+Stack+Developer;I'm+a+MERN+Stack+Expert;I'm+an+AI+Enthusiast+%E2%9C%A9" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4500&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil;I'm+a+Full+Stack+Developer;I'm+a+MERN+Stack+Expert;I'm+an+AI+Enthusiast+%E2%9C%A9" /><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... 
