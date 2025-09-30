@@ -3,11 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4500&pause=3000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil;I'm+Full+Stack+Developer;I'm+AI+Enthusiast+✩&speed=80&deleteSpeed=30" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4500&pause=3000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil;I'm+Full+Stack+Developer;I'm+AI+Enthusiast+%E2%9C%A9" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=7000&pause=3000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil;I'm+Full+Stack+Developer;I'm+AI+Enthusiast+✩" />
 </div>
 
 
-<br/>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... 
 
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
