@@ -10,6 +10,7 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 
 <h2>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h2>
+
 🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable, high-performance, and user-friendly web applications.
 🤖 AI Enthusiast exploring ways to make applications smarter and more impactful.
 🌍 Team player — eager to contribute to real-world projects and collaborative teams while delivering real value.
