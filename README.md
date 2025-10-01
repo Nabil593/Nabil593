@@ -10,6 +10,8 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 
 <h2>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h2>
+
+<pre>
   
 🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable, high-performance, and user-friendly web applications.
 
@@ -21,6 +23,7 @@
 
 🚀 Growth-oriented mindset — always learning, building, and contributing to achieve goals and make an impact.
 
+</pre>
 
 # 💻 Tech Stack: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -48,13 +51,10 @@
 </div>
 
 ## 🌐 Where to find me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shariea-reza-nabil-99462436a) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](https://mail.google.com/mail/?view=cm&to=nabilreza183@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/Nabilreza183) 
-
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
