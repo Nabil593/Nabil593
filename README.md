@@ -1,4 +1,6 @@
 <div align="center">
+  
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=HELLO+WORLD!" width="80%" /> 
 </div>
 <div align="center">
@@ -57,3 +59,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+  
+</div>
