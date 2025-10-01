@@ -13,15 +13,16 @@
 
 <img align="right" alt="Coder GIF" height=250 width=300 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable web applications.
 
-🤖 AI Enthusiast exploring ways to make applications smarter and more impactful.
+🧑‍💻 𝚂𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (𝙼𝙴𝚁𝙽) 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
 
-🌍 Eager to contribute to real-world projects and collaborative teams while delivering real value.
+🤖 𝙰𝙸 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚠𝚊𝚢𝚜 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚜𝚖𝚊𝚛𝚝𝚎𝚛 𝚊𝚗𝚍 𝚖𝚘𝚛𝚎 𝚒𝚖𝚙𝚊𝚌𝚝𝚏𝚞𝚕.
 
-✨ Combining full-stack development and AI to solve meaningful problems.
+🌍 𝙴𝚊𝚐𝚎𝚛 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚟𝚎 𝚝𝚎𝚊𝚖𝚜 𝚠𝚑𝚒𝚕𝚎 𝚍𝚎𝚕𝚒𝚟𝚎𝚛𝚒𝚗𝚐 𝚛𝚎𝚊𝚕 𝚟𝚊𝚕𝚞𝚎.
 
-🚀 Always learning, building, and contributing to achieve goals and make an impact.
+✨ 𝙲𝚘𝚖𝚋𝚒𝚗𝚒𝚗𝚐 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝙰𝙸 𝚝𝚘 𝚜𝚘𝚕𝚟𝚎 𝚖𝚎𝚊𝚗𝚒𝚗𝚐𝚏𝚞𝚕 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜.
+
+🚀 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚐𝚘𝚊𝚕𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚊𝚗 𝚒𝚖𝚙𝚊𝚌𝚝.
 
 
 # Tech Stack: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> <br/>
