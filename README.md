@@ -13,8 +13,7 @@
 
 <pre>
   
-<div style="font-size:18px;">
-🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable and high-performance web applications.
+###🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable and high-performance web applications.###
 
 🤖 AI Enthusiast exploring ways to make applications smarter and more impactful.
 
@@ -23,7 +22,6 @@
 ✨ Driven by innovation — combining full-stack development and AI to solve meaningful problems.
 
 🚀 Growth-oriented mindset — always learning, building, and contributing to achieve goals and make an impact.
-</div>
 
 </pre>
 
