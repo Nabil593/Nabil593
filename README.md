@@ -3,10 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=4500&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil+;Full+Stack+Developer;MERN+Stack+Expert;AI+Enthusiast+%E2%9C%A8" />
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=7500&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil+;Full+Stack+Developer;MERN+Stack+Expert;AI+Enthusiast+%E2%9C%A8" />
 </div>
 
+
+ <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+ 
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
