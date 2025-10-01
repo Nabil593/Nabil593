@@ -11,8 +11,7 @@
 
 <h2>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h2>
 
-<img align="right" src="https://github.com/user-attachments/assets/23fe95f3-bc83-48fe-bac4-8f890a050802" alt="Penguin" width="25%" />
-
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
     
 🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable web applications.
 
