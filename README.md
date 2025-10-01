@@ -25,7 +25,7 @@
 🚀 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚐𝚘𝚊𝚕𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚊𝚗 𝚒𝚖𝚙𝚊𝚌𝚝.
 
 
-# Tech Stack: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> <br/>
+# 【𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸】: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> <br/>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
