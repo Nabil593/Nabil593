@@ -13,7 +13,7 @@
 
 <pre>
   
-<div style="font-size:14px;">
+<div style="font-size:18px;">
   
 🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable and high-performance web applications.
 
