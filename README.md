@@ -37,15 +37,23 @@
 ![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-000000?style=for-the-badge&logo=github&logoColor=white) 
 
  # GitHub Stats: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 
+<div style="display: flex; justfy-content: space-around">
+
 <div>
   
 ![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /> 
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
+</div>
+
+<div>
+  
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /> 
+
+</div>
+  
 </div>
 
 ## 🌐 Where to find me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
