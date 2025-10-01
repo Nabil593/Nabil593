@@ -7,7 +7,7 @@
 
 ---
 
-### 【Ａｂｏｕｔ Ｍｅ】: <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+# 【𝗔𝗯𝗼𝘂𝘁 𝗠𝗲】: <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 <h3>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h3>
 
@@ -41,7 +41,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) 
 ![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-000000?style=for-the-badge&logo=github&logoColor=white) 
 
- # GitHub Stats: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ # 【𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀】: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div>
   
@@ -51,7 +51,7 @@
 
 </div>
   
-## 🌐 Where to find me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+# 【𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲】: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shariea-reza-nabil-99462436a) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](https://mail.google.com/mail/?view=cm&to=nabilreza183@gmail.com) 
