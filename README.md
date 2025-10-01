@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=55&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=Welcome+To+My+GitHub+Profile" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=55&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=Welcome+To+My+GitHub+Profile" width="80%"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 </div>
 
 <div align="center">
