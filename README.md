@@ -11,9 +11,8 @@
 
 <h2>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-
-  <pre>
+<pre>
+    
 🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable and high-performance web applications.
 
 🤖 AI Enthusiast exploring ways to make applications smarter and more impactful.
@@ -25,6 +24,8 @@
 🚀 Growth-oriented mindset — always learning, building, and contributing to achieve goals and make an impact.
 
 </pre>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 # Tech Stack: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <br/>
 
