@@ -25,7 +25,7 @@
 🚀 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚐𝚘𝚊𝚕𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚊𝚗 𝚒𝚖𝚙𝚊𝚌𝚝.
 
 
-# 【𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸】: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> <br/>
+# 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> <br/>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -41,7 +41,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) 
 ![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-000000?style=for-the-badge&logo=github&logoColor=white) 
 
- # 【𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀】: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ # 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div>
   
@@ -51,7 +51,7 @@
 
 </div>
   
-# 【𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲】: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+# 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shariea-reza-nabil-99462436a) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](https://mail.google.com/mail/?view=cm&to=nabilreza183@gmail.com) 
