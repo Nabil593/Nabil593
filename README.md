@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=52&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=Welcome+To+My+GitHub+Profile" width="80%" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=Welcome+To+My+GitHub+Profile" width="80%" /> 
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=5000&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil+;Full+Stack+Developer;MERN+Stack+Expert;AI+Enthusiast+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=5000&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil+;Full+Stack+Developer;MERN+Stack+Expert;AI+Enthusiast+%E2%9C%A8" />
 </div>
-
+---
 
  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
- 
----
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**.
