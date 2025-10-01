@@ -35,7 +35,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) 
 ![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-000000?style=for-the-badge&logo=github&logoColor=white) 
 
- # 📊 GitHub Stats:
+ # 📊 GitHub Stats: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <div align="center"> 
   
 ![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
@@ -50,9 +50,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/Nabilreza183) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
