@@ -7,7 +7,7 @@
 
 ---
 
-### About Me: <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+### 【Ａｂｏｕｔ Ｍｅ】: <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 <h2>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h2>
 
