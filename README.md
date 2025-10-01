@@ -10,6 +10,8 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 
 <h2>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h2>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
   
 🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable and high-performance web applications.
 
@@ -40,8 +42,6 @@
 
 <div>
   
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-
 ![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
