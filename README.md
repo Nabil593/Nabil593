@@ -13,7 +13,7 @@
 
 <pre>
   
-🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable, high-performance, and user-friendly web applications.
+🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable and high-performance web applications.
 
 🤖 AI Enthusiast exploring ways to make applications smarter and more impactful.
 
