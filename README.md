@@ -2,12 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=55&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=Welcome+To+My+GitHub+Profile" width="80%"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 </div>
 
-<div align="center">
-  <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=55&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=Welcome+To+My+GitHub+Profile" width="80%" style="vertical-align: middle;"/>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50" style="vertical-align: middle;"/>
-  </span>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=55&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=Welcome+To+My+GitHub+Profile" style="height: 80px;"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="height: 80px;"/>
 </div>
+
 
 
 <div align="center">
