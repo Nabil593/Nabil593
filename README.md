@@ -1,6 +1,4 @@
 <div align="center">
-  
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=HELLO+WORLD!" width="80%" /> 
 </div>
 <div align="center">
@@ -12,8 +10,6 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 
 <h2>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h2>
-
-<div align="left">
   
 🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable, high-performance, and user-friendly web applications.
 
@@ -25,7 +21,6 @@
 
 🚀 Growth-oriented mindset — always learning, building, and contributing to achieve goals and make an impact.
 
-</div>
 
 # 💻 Tech Stack: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -63,7 +58,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
-  
-</div>
