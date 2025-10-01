@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=HELLO+WORLD!" width="80%" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=HELLO+WORLD!" width="80%" /> 
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=3000&pause=2000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil+;Full+Stack+Developer;MERN+Stack+Expert;AI+Enthusiast+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=35&duration=3000&pause=2000&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil+;Full+Stack+Developer;MERN+Stack+Expert;AI+Enthusiast+%E2%9C%A8" />
 </div> 
 
 ---
