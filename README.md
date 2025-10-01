@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=HELLO+WORLD!+'<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> '" width="80%" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=150&lines=HELLO+WORLD!" width="80%" /> 
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=5000&pause=2500&color=A7A459&center=true&vCenter=true&repeat=true&width=1000&lines=I'm+Shariea+Reza+Nabil+;Full+Stack+Developer;MERN+Stack+Expert;AI+Enthusiast+%E2%9C%A8" />
@@ -7,20 +7,16 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h2>About me...</h2>
-I'm a Full Stack Developer specializing in **MERN stack** with a passion for building scalable web applications.
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**.
-- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**- <br>- - &nbsp;&nbsp;
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**. 🚀
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>About me...</h3>
 
-**Passionate about coding, problem solving, and exploring new tech.** 📚 **Self-taught learner constantly improving my skills.** 💻 **Focused on building full stack applications with real-world impact.** 🤝
-**Always ready to learn, build, and contribute in a team.** <br/> 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <br/>
+**I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.**
+🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable, high-performance, and user-friendly web applications.
+🤖 AI Enthusiast exploring ways to make applications smarter and more impactful.
+🌍 Team player — eager to contribute to real-world projects and collaborative teams while delivering real value.
+✨ Driven by innovation — combining full-stack development and AI to solve meaningful problems.
+🚀 Growth-oriented mindset — always learning, building, and contributing to achieve goals and make an impact.
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
