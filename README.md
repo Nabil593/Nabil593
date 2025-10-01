@@ -51,7 +51,7 @@
 
 </div>
   
-<img src="GIF/Earth.gif" width="24px"/>  𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲:  
+# 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲:  
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shariea-reza-nabil-99462436a) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](https://mail.google.com/mail/?view=cm&to=nabilreza183@gmail.com) 
