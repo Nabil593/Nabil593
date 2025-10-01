@@ -7,7 +7,7 @@
 
 ---
 
-# 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+# 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
 <h3>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h3>
 
