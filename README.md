@@ -14,15 +14,15 @@
 <img align="right" src="https://github.com/user-attachments/assets/f8eeb280-6967-4d5e-849b-71cef6b28986" alt="Penguin" width="25%" />
 
     
-🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable and high-performance web applications.
+🧑‍💻 Self-taught Full Stack Developer (MERN) passionate about building scalable web applications.
 
 🤖 AI Enthusiast exploring ways to make applications smarter and more impactful.
 
-🌍 Team player — eager to contribute to real-world projects and collaborative teams while delivering real value.
+🌍 Eager to contribute to real-world projects and collaborative teams while delivering real value.
 
-✨ Driven by innovation — combining full-stack development and AI to solve meaningful problems.
+✨ Combining full-stack development and AI to solve meaningful problems.
 
-🚀 Growth-oriented mindset — always learning, building, and contributing to achieve goals and make an impact.
+🚀 Always learning, building, and contributing to achieve goals and make an impact.
 
 
 # Tech Stack: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <br/>
