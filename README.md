@@ -39,7 +39,12 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) 
-![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-000000?style=for-the-badge&logo=&logoColor=white) 
+![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-000000?style=for-the-badge&logo=&logoColor=white)
+<p align="center">
+  <img src="assets/prompt-engineering-logo.png" width="20" style="vertical-align:middle;">
+  <span style="background-color:#000000; color:#ffffff; padding:5px 10px; border-radius:5px; font-weight:bold;">Prompt Engineer</span>
+</p>
+
 
  # 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
