@@ -58,6 +58,37 @@
 
 
 
+
+
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background: #0d1117; padding: 20px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+
+  <!-- GitHub Stats -->
+  <div style="flex: 1 1 300px; text-align: center; border-radius: 15px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="GitHub Stats" />
+  </div>
+
+  <!-- Streak Stats -->
+  <div style="flex: 1 1 300px; text-align: center; border-radius: 15px; overflow: hidden;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff" alt="Streak Stats" />
+  </div>
+
+  <!-- Top Languages -->
+  <div style="flex: 1 1 300px; text-align: center; border-radius: 15px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="Top Languages" />
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
 </div>
   
 # 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲:  
