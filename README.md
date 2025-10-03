@@ -60,26 +60,25 @@
 
 
 
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; perspective: 1000px; max-width: 1000px; margin: auto;">
 
-<div style="background: rgba(30, 60, 114, 0.4); backdrop-filter: blur(15px); padding: 30px; border-radius: 25px; display: flex; flex-direction: column; align-items: center; gap: 25px; max-width: 950px; margin: auto; box-shadow: 0 15px 40px rgba(0,0,0,0.6); border: 2px solid rgba(0, 191, 255, 0.3);">
-
-  <!-- Top Row: GitHub Stats + Streak -->
-  <div style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: center; width: 100%;">
-    <div style="flex: 1 1 400px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,191,255,0.5); transition: transform 0.3s; hover:transform:scale(1.05);">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="GitHub Stats" />
-    </div>
-
-    <div style="flex: 1 1 400px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,191,255,0.5); transition: transform 0.3s; hover:transform:scale(1.05);">
-      <img src="https://nirzak-streak-stats.herokuapp.com/?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff" alt="Streak Stats" />
-    </div>
+  <!-- Circle Badge 1 -->
+  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; box-shadow: 0 15px 30px rgba(0,191,255,0.5); transform: rotateY(20deg) rotateX(10deg); transition: transform 0.5s; background: linear-gradient(135deg, #1e3c72, #2a5298);">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="GitHub Stats" style="width:100%; height:100%; object-fit: cover;" />
   </div>
 
-  <!-- Bottom Row: Top Languages -->
-  <div style="flex: 1 1 850px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,191,255,0.5); transition: transform 0.3s; hover:transform:scale(1.05); width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="Top Languages" />
+  <!-- Circle Badge 2 -->
+  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; box-shadow: 0 15px 30px rgba(0,191,255,0.5); transform: rotateY(-20deg) rotateX(-10deg); transition: transform 0.5s; background: linear-gradient(135deg, #1e3c72, #2a5298);">
+    <img src="https://nirzak-streak-stats.herokuapp.com/?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff" alt="Streak Stats" style="width:100%; height:100%; object-fit: cover;" />
+  </div>
+
+  <!-- Circle Badge 3 -->
+  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; box-shadow: 0 15px 30px rgba(0,191,255,0.5); transform: rotateY(10deg) rotateX(20deg); transition: transform 0.5s; background: linear-gradient(135deg, #1e3c72, #2a5298);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="Top Languages" style="width:100%; height:100%; object-fit: cover;" />
   </div>
 
 </div>
+
 
 
 
