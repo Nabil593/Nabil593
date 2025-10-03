@@ -61,25 +61,26 @@
 
 
 
+<div style="background: rgba(30, 60, 114, 0.4); backdrop-filter: blur(15px); padding: 30px; border-radius: 25px; display: flex; flex-direction: column; align-items: center; gap: 25px; max-width: 950px; margin: auto; box-shadow: 0 15px 40px rgba(0,0,0,0.6); border: 2px solid rgba(0, 191, 255, 0.3);">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background: #0d1117; padding: 20px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <!-- Top Row: GitHub Stats + Streak -->
+  <div style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: center; width: 100%;">
+    <div style="flex: 1 1 400px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,191,255,0.5); transition: transform 0.3s; hover:transform:scale(1.05);">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="GitHub Stats" />
+    </div>
 
-  <!-- GitHub Stats -->
-  <div style="flex: 1 1 300px; text-align: center; border-radius: 15px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="GitHub Stats" />
+    <div style="flex: 1 1 400px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,191,255,0.5); transition: transform 0.3s; hover:transform:scale(1.05);">
+      <img src="https://nirzak-streak-stats.herokuapp.com/?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff" alt="Streak Stats" />
+    </div>
   </div>
 
-  <!-- Streak Stats -->
-  <div style="flex: 1 1 300px; text-align: center; border-radius: 15px; overflow: hidden;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff" alt="Streak Stats" />
-  </div>
-
-  <!-- Top Languages -->
-  <div style="flex: 1 1 300px; text-align: center; border-radius: 15px; overflow: hidden;">
+  <!-- Bottom Row: Top Languages -->
+  <div style="flex: 1 1 850px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,191,255,0.5); transition: transform 0.3s; hover:transform:scale(1.05); width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="Top Languages" />
   </div>
 
 </div>
+
 
 
 
