@@ -44,6 +44,17 @@
  # 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div>
+
+
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600)
+
+<!-- GitHub Streak Stats -->
+![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=dark&hide_border=false&cache_seconds=3600)
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=3600)
+
   
 ![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=dark&hide_border=false) 
