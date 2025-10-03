@@ -46,14 +46,15 @@
 <div>
 
 
-<!-- GitHub Stats - Radical Theme -->
-![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=radical&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600)
+<!-- GitHub Stats - Sky Gradient Card -->
+![](https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff)
 
-<!-- GitHub Streak Stats - Blue Theme -->
-![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=blue&hide_border=false&cache_seconds=3600)
+<!-- GitHub Streak Stats - Sky Gradient Card -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff)
 
-<!-- Top Languages - Dark Theme, Compact -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=3600)
+<!-- Top Languages - Sky Gradient Card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff)
+
 
 
 
