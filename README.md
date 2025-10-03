@@ -46,19 +46,16 @@
 <div>
 
 
-<!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600)
+<!-- GitHub Stats - Radical Theme -->
+![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=radical&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600)
 
-<!-- GitHub Streak Stats -->
-![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=dark&hide_border=false&cache_seconds=3600)
+<!-- GitHub Streak Stats - Blue Theme -->
+![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=blue&hide_border=false&cache_seconds=3600)
 
-<!-- Top Languages -->
+<!-- Top Languages - Dark Theme, Compact -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=3600)
 
-  
-![](https://github-readme-stats.vercel.app/api?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Nabil593&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+
 
 </div>
   
