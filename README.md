@@ -69,13 +69,7 @@
         <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil593&repo=YOUR-REPO-NAME&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=1800" alt="Latest Project" />
       </a>
     </td>
-
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/Nabil593">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Nabil593&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=1800" alt="Top Contributions" />
-      </a>
-    </td>
+    
   </tr>
 
   <tr>
