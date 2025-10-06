@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+    <img align='center' src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
   </tr>
 </table>
 
