@@ -44,7 +44,7 @@
 
 
 
-<h2 align="center">📊 GitHub Stats (Fast Auto Update) 📊</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
@@ -69,6 +69,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=60" alt="Top Languages" />
       </a>
     </td>
+  </tr>
+  <tr>
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
   </tr>
 </table>
 
