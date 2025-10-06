@@ -61,22 +61,20 @@
 
 
 
-
-
-<h2 align="center">🌌 GitHub Sky Stats 🌌</h2>
+<h2 align="center">📊 GitHub Stats (Auto Update) 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <h3><strong>GitHub Stats</strong></h3>
       <a href="https://github.com/Nabil593">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=c56a90&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/Nabil593">
-        <img src="https://streak-stats.demolab.com?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff&dates=00ffff" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=Nabil593&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&cache_seconds=1800" alt="Streak Stats" />
       </a>
     </td>
   </tr>
@@ -84,15 +82,24 @@
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/Nabil593">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil593&repo=YOUR-REPO-NAME&theme=react&show_owner=true&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff" alt="Latest Project" />
+      <a href="https://github.com/Nabil593/YOUR-REPO-NAME">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil593&repo=YOUR-REPO-NAME&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=1800" alt="Latest Project" />
       </a>
     </td>
 
     <td align="center">
       <h3><strong>Top Contributions</strong></h3>
       <a href="https://github.com/Nabil593">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Nabil593&limit=3&theme=react&show_owner=true&combine_all_yearly_contributions=false&bg_color=1e3c72&title_color=00bfff&text_color=87cefa" alt="Top Contributions" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=Nabil593&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=1800" alt="Top Contributions" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <h3><strong>Top Languages</strong></h3>
+      <a href="https://github.com/Nabil593">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=1800" alt="Top Languages" />
       </a>
     </td>
   </tr>
