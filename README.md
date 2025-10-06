@@ -70,9 +70,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <img align='center' src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
-  </tr>
 </table>
 
 <br/>
