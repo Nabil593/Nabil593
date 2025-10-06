@@ -41,23 +41,6 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) 
 ![Prompt Engineer](https://img.shields.io/badge/AI_Promting-000000?style=for-the-badge&logo=robot&logoColor=white)
 
- # 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<div>
-
-
-<!-- GitHub Stats - Sky Gradient Card -->
-![](https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff)
-
-<!-- GitHub Streak Stats - Sky Gradient Card -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=blue-green&hide_border=false&cache_seconds=3600&background=1e3c72&fire=00ffff&currStreakNum=87cefa&sideNums=87cefa&sideLabels=00bfff)
-
-<!-- Top Languages - Sky Gradient Card -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=react&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600&bg_color=1e3c72&title_color=00bfff&text_color=87cefa&icon_color=00ffff)
-
-
-</div>
-
 
 
 
