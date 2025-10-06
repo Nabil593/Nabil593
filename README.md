@@ -44,7 +44,7 @@
 
 
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 
 <table width="100%">
   <tr>
