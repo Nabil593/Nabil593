@@ -63,16 +63,6 @@
   </tr>
 
   <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/Nabil593/YOUR-REPO-NAME">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil593&repo=YOUR-REPO-NAME&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=1800" alt="Latest Project" />
-      </a>
-    </td>
-    
-  </tr>
-
-  <tr>
     <td colspan="2" align="center">
       <h3><strong>Top Languages</strong></h3>
       <a href="https://github.com/Nabil593">
