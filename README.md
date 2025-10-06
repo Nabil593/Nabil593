@@ -75,7 +75,10 @@
 <br/>
 
 
-  
+
+<div align='center'>
+
+
 # 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲:  
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shariea-reza-nabil-99462436a) 
@@ -84,3 +87,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  
+</div>
