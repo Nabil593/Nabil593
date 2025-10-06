@@ -78,6 +78,43 @@
 
 
 
+<h2 align="center">📊 GitHub Stats (Fast Auto Update) 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>GitHub Stats</strong></h3>
+      <a href="https://github.com/Nabil593">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=c56a90&include_all_commits=true&count_private=true&cache_seconds=60" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/Nabil593">
+        <img src="https://streak-stats.demolab.com?user=Nabil593&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&cache_seconds=60" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <h3><strong>Top Languages</strong></h3>
+      <a href="https://github.com/Nabil593">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&cache_seconds=60" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+
+
+
+
+
+
 
 
   
