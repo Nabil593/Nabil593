@@ -75,65 +75,6 @@
 <br/>
 
 
-
-
-
-
-
-
-
-
-<table width="100%">
-  <tr>
-    <!-- GitHub Stats -->
-    <td width="50%" align="center" style="padding: 10px;">
-      <h3><strong>🚀 GitHub Stats</strong></h3>
-      <a href="https://github.com/Nabil593">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=nightowl&bg_color=000000,441350&title_color=c56a90&text_color=ffffff&icon_color=c56a90&include_all_commits=true&count_private=true" 
-          alt="GitHub Stats" 
-          width="95%" 
-        />
-      </a>
-    </td>
-
-    <!-- Streak Stats -->
-    <td width="50%" align="center" style="padding: 10px;">
-      <h3><strong>🔥 Streak Stats</strong></h3>
-      <a href="https://github.com/Nabil593">
-        <img 
-          src="https://streak-stats.demolab.com?user=Nabil593&theme=nightowl&background=000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
-          alt="Streak Stats" 
-          width="95%" 
-        />
-      </a>
-    </td>
-  </tr>
-
-  <!-- Top Languages -->
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-      <h3><strong>💻 Top Languages</strong></h3>
-      <a href="https://github.com/Nabil593">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=nightowl&bg_color=000000,441350&title_color=c56a90&text_color=ffffff" 
-          alt="Top Languages" 
-          width="80%" 
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
 <div align='center'>
 
 
