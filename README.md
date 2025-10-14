@@ -7,7 +7,9 @@
 
 ---
 
-# 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+<div align="center">
+
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
 <h3>I'm a Full Stack Developer (MERN) | Eager to Learn, Build & Contribute.</h3>
 
@@ -24,6 +26,7 @@
 
 🚀 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚐𝚘𝚊𝚕𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚊𝚗 𝚒𝚖𝚙𝚊𝚌𝚝.
 
+</div>
 
 <div align="center">
 
