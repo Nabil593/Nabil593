@@ -43,7 +43,7 @@
 ![Prompt Engineer](https://img.shields.io/badge/AI_Promting-000000?style=for-the-badge&logo=robot&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
 </div>
 
 
