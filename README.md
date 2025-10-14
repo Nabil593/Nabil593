@@ -27,7 +27,9 @@
 
 <div align="center">
 
-# 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> <br/>
+# 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸: <br/>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
