@@ -25,6 +25,8 @@
 🚀 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚐𝚘𝚊𝚕𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚊𝚗 𝚒𝚖𝚙𝚊𝚌𝚝.
 
 
+<div align="center">
+
 # 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> <br/>
 
 
@@ -41,7 +43,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) 
 ![Prompt Engineer](https://img.shields.io/badge/AI_Promting-000000?style=for-the-badge&logo=robot&logoColor=white)
 
-
+</div>
 
 
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
