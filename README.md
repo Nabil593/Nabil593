@@ -58,7 +58,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=c56a90&include_all_commits=true&count_private=true&cache_seconds=60" alt="GitHub Stats" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="55%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/Nabil593">
         <img
