@@ -61,18 +61,9 @@
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/Nabil593">
-        <img src="https://streak-stats.demolab.com?user=Nabil593&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&cache_seconds=60" alt="Streak Stats" />
+       <img src="https://streak-stats.demolab.com?user=Nabil593&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" />
       </a>
-    </td>
-
-<td width="50%" align="center">
-  <h3><strong>Streak Stats</strong></h3>
-  <a href="https://github.com/Nabil593">
-    <img src="https://streak-stats.demolab.com?user=Nabil593&theme=nightowl&background=000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-  </a>
-</td>
-
-    
+    </td>    
   </tr>
 
   <tr>
