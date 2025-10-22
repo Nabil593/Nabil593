@@ -44,9 +44,6 @@
 ![Prompt Engineer](https://img.shields.io/badge/AI_Promting-000000?style=for-the-badge&logo=robot&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</div>
-
 
 <h2 align="center"> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 </h2>
 
