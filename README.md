@@ -2,23 +2,18 @@
 # Helping Build Scalable & Modern Web Solutions
 ## MERN | Frontend Developer | Aspiring Software Engineer
 
----
-
-I’m a passionate self-taught developer focused on building **modern, scalable, and high-performance web applications**.  
+I’m Shariea Reza Nabil —— a passionate self-taught developer focused on building **modern, scalable, and high-performance web applications**.  
 Currently sharpening my skills in **Frontend + Full Stack development** with the goal of becoming a **high-level software engineer**.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Skills
 
-**Frontend:**  
-HTML • CSS • Tailwind CSS • JavaScript • TypeScript • React • Next.js  
-
-**Backend:**  
-Node.js • Express.js • MongoDB • Firebase  
-
-**Tools & Others:**  
-Git • GitHub • VS Code • Figma • Postman
+| Category | Skills |
+|----------|--------|
+| **Frontend** | HTML • CSS • Tailwind CSS • JavaScript • TypeScript • React • Next.js |
+| **Backend** | Node.js • Express.js • MongoDB • Firebase |
+| **Tools & Others** | Git • GitHub • VS Code • Figma • Postman |
 
 ---
 
