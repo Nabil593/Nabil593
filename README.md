@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shariea Reza Nabil
 
 ### MERN | Frontend Developer | Aspiring Software Engineer
-**Helping Build Modern Web Solutions**
+**Helping Build Scalable & Modern Web Solutions**
 
 I’m a passionate self-taught developer focused on building **modern, scalable, and high-performance web applications**.  
 Currently sharpening my skills in **Frontend + Full Stack development** with the goal of becoming a **high-level software engineer**.
@@ -18,12 +18,6 @@ Node.js • Express.js • MongoDB • Firebase
 
 **Tools & Others:**  
 Git • GitHub • VS Code • Figma • Postman
-
----
-
-## 🛠 Projects
-
-> Coming soon — building awesome things 🚧
 
 ---
 
