@@ -1,4 +1,4 @@
-# Helping Build Scalable & Modern Web Solutions
+# Helping Build Scalable & Modern Web Apps Solutions
 <i> MERN • Frontend Developer • Aspiring Software Engineer </i>
 
 ---
