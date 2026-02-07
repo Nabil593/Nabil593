@@ -1,11 +1,12 @@
 # Helping Build Scalable & Modern Web Solutions
 **MERN | Frontend Developer | Aspiring Software Engineer**
 
+##About Me
 I’m Shariea Reza Nabil —— a passionate self-taught developer who loves learning and exploring new technologies while focusing on building **modern, scalable, and high-performance web applications**. Currently sharpening my skills in **Frontend + Full Stack development** with the goal of becoming a **high-level software engineer**.
 
 ---
 
-## 🚀 Tech Stack & Skills
+## Tech Stack & Skills
 
 | Category | Skills |
 |----------|--------|
@@ -15,7 +16,7 @@ I’m Shariea Reza Nabil —— a passionate self-taught developer who loves lea
 
 ---
 
-## 📈 Goals
+## Goals
 
 - Become a **high-level software engineer**
 - Build **impactful tech products**
@@ -23,7 +24,7 @@ I’m Shariea Reza Nabil —— a passionate self-taught developer who loves lea
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/shariea-reza-nabil/)
 - Portfolio: (coming soon)
