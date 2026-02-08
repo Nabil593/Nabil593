@@ -28,10 +28,6 @@ I’m Shariea Reza Nabil •——• a passionate self-taught developer who lov
 
 ## Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/shariea-reza-nabil/)
-- Portfolio: (coming soon)
-
----
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
