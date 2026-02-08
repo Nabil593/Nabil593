@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I’m Shariea Reza Nabil •——• a passionate self-taught developer who loves learning and exploring new technologies while focusing on building **modern, scalable, and high-performance web applications**. Currently sharpening my skills in **Frontend + Full Stack development** with the goal of becoming a **high-level software engineer**.
+I’m Shariea Reza Nabil. A passionate self-taught developer who loves learning and exploring new technologies while focusing on building **modern, scalable, and high-performance web applications**. Currently sharpening my skills in **Frontend + Full Stack development** with the goal of becoming a **high-level software engineer**.
 
 ---
 
@@ -30,9 +30,9 @@ I’m Shariea Reza Nabil •——• a passionate self-taught developer who lov
 
 - LinkedIn: https://www.linkedin.com/in/shariea-reza-nabil/
 - Twitter: https://x.com/Nabilreza183
-- Email: nabilreza183@gmail.com
 - Facebook: https://www.facebook.com/
-- Portfolio: (coming soon...)
+- Email: nabilreza183@gmail.com
+- Portfolio: coming soon...
 
 ---
 
