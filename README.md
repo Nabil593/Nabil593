@@ -30,7 +30,7 @@ I’m Shariea Reza Nabil. A passionate self-taught developer who loves learning 
 
 - LinkedIn: https://www.linkedin.com/in/shariea-reza-nabil/
 - Twitter: https://x.com/Nabilreza183
-- Facebook: https://www.facebook.com/
+- Facebook: https://www.facebook.com/profile.php?id=61577196064206
 - Email: nabilreza183@gmail.com
 - Portfolio: (coming soon...)
 
