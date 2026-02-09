@@ -36,3 +36,4 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 
 ---
 ⭐ If you enjoy my work and projects, consider giving a star to my repositories — it truly motivates me to keep building!
+⭐ Love what I build? Drop a ⭐ on my repositories — your support keeps me motivated to create more impactful projects!
