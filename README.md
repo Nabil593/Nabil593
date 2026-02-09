@@ -51,5 +51,5 @@ I love building **modern, scalable, and high-performance web applications**. Her
 - Portfolio: (coming soon...)
 
 ---
-⭐ If you enjoy my work and projects, consider giving a star to my repositories — it truly motivates me to keep building!
+
 ⭐ Love what I build? Drop a ⭐ on my repositories — your support keeps me motivated to create more impactful projects!
