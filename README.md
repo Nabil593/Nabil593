@@ -29,8 +29,6 @@ I love building **modern, scalable, and high-performance web applications**. Her
 | **Code Optimization & Refactoring** | Improve existing code for **better performance, readability, and scalability**. |
 | **Open-Source Contribution** | Contribute to **community projects** and help build tools that make development faster and smarter. |
 
-⚡ **If you’re looking for a passionate developer to bring your ideas to life, let’s connect!**
-
 ---
 
 ## Goals
@@ -41,6 +39,7 @@ I love building **modern, scalable, and high-performance web applications**. Her
 
 ---
 
+⚡ **If you’re looking for a passionate developer to bring your ideas to life, let’s connect!**
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shariea-reza-nabil/
