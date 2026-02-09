@@ -35,4 +35,3 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 - Portfolio: (coming soon...)
 
 ---
-⭐ If this project helped you, please consider giving it a star — your support means a lot!
