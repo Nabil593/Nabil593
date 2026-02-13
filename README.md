@@ -18,19 +18,6 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 
 ---
 
-## 💼 Services I Offer
-
-I love building **modern, scalable, and high-performance web applications**. Here’s how I can help:
-
-| Service | Description |
-|---------|-------------|
-| **Frontend Development** | Build responsive, interactive, and visually appealing user interfaces using **HTML, CSS, Tailwind, JavaScript, TypeScript, React, and Next.js**. |
-| **Full Stack Development** | Develop **end-to-end web applications** with **Node.js, Express.js, MongoDB, and Firebase**, ensuring smooth integration between frontend and backend. |
-| **Code Optimization & Refactoring** | Improve existing code for **better performance, readability, and scalability**. |
-| **Open-Source Contribution** | Contribute to **community projects** and help build tools that make development faster and smarter. |
-
----
-
 ## Goals
 
 - Become a **high-level software engineer**
@@ -39,7 +26,6 @@ I love building **modern, scalable, and high-performance web applications**. Her
 
 ---
 
-⚡ **If you’re looking for a passionate developer to bring your ideas to life, let’s connect!**
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shariea-reza-nabil/
