@@ -1,5 +1,5 @@
 # Helping Build Scalable & Modern Web Apps Solutions
-<i> MERN • Frontend Developer • Aspiring Software Engineer </i>
+<i> Frontend Developer • MERN • Aspiring Software Engineer </i>
 
 ---
 
