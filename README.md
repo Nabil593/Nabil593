@@ -48,4 +48,16 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 
 ---
 
+---
+
+## `> activity.graph`
+
+<div align="center">
+
+[![Nabil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nabil593&bg_color=09090b&color=fafafa&line=f4f4f5&point=10b981&area=true&area_color=022c22&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ⭐ Love what I build? Drop a ⭐ on my repositories — your support keeps me motivated to create more impactful projects!!
