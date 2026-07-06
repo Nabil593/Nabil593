@@ -42,22 +42,15 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 
 <div align="center">
 
-[![Nabil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nabil593&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
----
-
-## `> activity.graph`
-
-<div align="center">
-
 [![Nabil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nabil593&bg_color=09090b&color=fafafa&line=f4f4f5&point=10b981&area=true&area_color=022c22&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-⭐ Love what I build? Drop a ⭐ on my repositories — your support keeps me motivated to create more impactful projects!!
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Machaudhary2024-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/Machaudhary2024)
+![Visitors](https://komarev.com/ghpvc/?username=Machaudhary2024&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+
+</div>
