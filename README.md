@@ -26,20 +26,6 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 
 ---
 
----
-
-## `> contact.init()`
-
-```python
-contact = {
-    "github"  : "github.com/Machaudhary2024",
-    "uni"     : "FAST-NUCES Faisalabad",
-    "status"  : "Open to collabs & opportunities 🟢",
-}
-
-print("Let's build something cool together!")
-```
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shariea-reza-nabil/
@@ -47,6 +33,18 @@ print("Let's build something cool together!")
 - Facebook: https://www.facebook.com/profile.php?id=61577196064206
 - Email: nabilreza183@gmail.com
 - Portfolio: https://sharieanabil.vercel.app/
+
+---
+
+---
+
+## `> activity.graph`
+
+<div align="center">
+
+[![Nabil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nabil593&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
