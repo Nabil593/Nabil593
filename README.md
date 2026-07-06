@@ -50,7 +50,7 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Machaudhary2024-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/Nabil593)
-![Visitors](https://komarev.com/ghpvc/?username=Machaudhary2024&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/GitHub-Nabil593-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/Nabil593)
+![Visitors](https://komarev.com/ghpvc/?username=Nabil593&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
 
 </div>
