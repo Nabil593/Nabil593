@@ -26,6 +26,20 @@ I’m Shariea Reza Nabil.  A passionate self-taught developer who loves learning
 
 ---
 
+---
+
+## `> contact.init()`
+
+```python
+contact = {
+    "github"  : "github.com/Machaudhary2024",
+    "uni"     : "FAST-NUCES Faisalabad",
+    "status"  : "Open to collabs & opportunities 🟢",
+}
+
+print("Let's build something cool together!")
+```
+
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shariea-reza-nabil/
