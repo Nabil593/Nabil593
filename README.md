@@ -1,11 +1,18 @@
-<p align="center">
-  <pre align="center">
-┌──────────────────────────────────────┐
-│  █▄ █ ▄▀█ █▀▄ █ █   Full-Stack (MERN)│
-│  █ ▀█ █▀█ █▄▀ █ █▄▄  TypeScript / Next│
-└──────────────────────────────────────┘
+<div align="center">
+  <br />
+  <pre style="font-family: monospace; font-size: 11px; line-height: 1.25; background: none; border: none; color: #fafafa;">
+███╗   ██╗ █████╗ ██████╗ ██╗██╗     
+████╗  ██║██╔══██╗██╔══██╗██║██║     
+██╔██╗ ██║███████║██████╔╝██║██║     
+██║╚██╗██║██╔══██║██╔══██║██║██║     
+██║ ╚████║██║  ██║██████╔╝██║███████╗
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝
   </pre>
-</p>
+  <p style="color: #a1a1aa; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; margin-top: 12px;">
+    An accessible, pixel-perfect developer profile built with discipline.
+  </p>
+  <br />
+</div>
 
 
 # Helping Build Scalable & Modern Web Apps Solutions
