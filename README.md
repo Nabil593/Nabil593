@@ -56,7 +56,7 @@ I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building productio
 
 ## Connect With Me
 
-<div>
+<div align="center">
 
 | LinkedIn | Portfolio | Email | X / Twitter |
 | :---: | :---: | :---: | :---: |
