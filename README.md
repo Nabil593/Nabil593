@@ -1,7 +1,7 @@
 <img width="2000" height="600" alt="Navy Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/24b01eb3-a64e-4c7d-aa4d-262674aa788c" />
 
 #  Hi, I'm Shariea Reza Nabil 👋
-<i> Frontend Developer • MERN Stack Developer • Aspiring Ai Powered Software Engineer </i>
+<i> Frontend Developer • MERN Stack Developer • Aspiring AI Powered Software Engineer </i>
 
 ---
 
@@ -94,14 +94,9 @@ I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building productio
 ---
 
 <div align="center">
-  <a href="https://github.com/Nabil593">
-    <img src="https://img.shields.io/badge/portfolio-view--site-0d1117?style=flat-square&logo=vercel&logoColor=ffffff" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Nabil593&style=flat-square&color=0d1117&label=total%20views" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nabil593&style=flat-square&label=Total%20views" alt="Views" />
 </div>
-
-----
-
+<br/>
 <div align="center">
   <p><code>// Thanks for stopping by. Let's build something exceptional together. ✨</code></p>
 </div>
