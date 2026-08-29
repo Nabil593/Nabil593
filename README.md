@@ -10,6 +10,13 @@ I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building productio
 
 ---
 
+## Current Activities
+- I am exploring the path of an AI-Powered Software Engineer.
+- I’m working on a team project: **AgriNova** (Smart Agriculture & Digital Farming Platform).
+- I am practicing deep work and refining modern UI/UX design principles.
+
+---
+
 ## Tech Stack & Skills
 
 #### Frontend & UI
