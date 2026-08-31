@@ -76,9 +76,7 @@ I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building productio
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=tokyonight&hide_border=true&bg_color=09090b" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil593&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b" />
-</p>
+
 
 </div>
 
