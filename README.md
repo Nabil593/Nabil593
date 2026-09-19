@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="Navy Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/24b01eb3-a64e-4c7d-aa4d-262674aa788c" />
+<img width="2000" height="600" alt="Navy Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/399515c0-68cc-4462-9c15-2f14aa68b806" />
 
 #  Hi, I'm Shariea Reza Nabil 👋
 <i> Frontend Developer • MERN Stack Developer • Aspiring AI Powered Software Engineer </i>
