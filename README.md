@@ -52,7 +52,7 @@ I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building productio
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 ## Connect With Me
 
@@ -64,33 +64,16 @@ I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building productio
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b" />
-</p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=tokyonight&hide_border=true&bg_color=09090b" />
 </p>
-
-
 </div>
 
----
 
-## `> activity.graph`
-
-<div align="center">
-
-[![Nabil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nabil593&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nabil593&style=flat-square&label=Total%20views" alt="Views" />
