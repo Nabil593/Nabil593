@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="Navy Geometric Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/63d4fdb2-1d5c-4c19-9758-5baa7f5e06af" />
+<img width="2170" height="725" alt="ChatGPT Image Sep 20, 2026, 11_27_51 PM" src="https://github.com/user-attachments/assets/2420e15c-bd3f-49b0-b0be-19f8dc28e7ce" />
 
 #  Hi, I'm Shariea Reza Nabil 👋
 <i> Frontend Developer • MERN Stack Developer • Aspiring AI Powered Software Engineer </i>
