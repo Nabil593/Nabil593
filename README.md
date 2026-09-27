@@ -2,8 +2,6 @@
 
 #  Hi, I'm Shariea Reza Nabil 👋
 
----
-
 ## About Me
 I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building production-ready, high-performance web applications using the MERN stack, Next.js, and TypeScript. I focus on clean UI aesthetics, optimized API responses, and smooth state management. Currently sharpening my skills in Full Stack development with the goal of becoming a high-level AI-powered software engineer.
 
