@@ -66,6 +66,11 @@ I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building productio
 </p>
 </div>
 
+<div align="center">
+  
+![GitHub Contribution Bar and Line Graph](https://gitactivitygraph.dev.cv/api/graph?username=Nabil593&type=combo&theme=custom&background=0d1117&text=e6edf3&border=30363d&labelColor=8d96a0&countColor=e6edf3&lineColor=ffffff&pointColor=39d353&pointBorderColor=0d1117&gridColor=8d96a0&barColor=1f6feb&fontSize=13&gridOpacity=30&barWidth=60&barRadius=8&barOpacity=90&showGridX=true)
+
+</div>
 
 
 <div align="center">
