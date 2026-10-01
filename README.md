@@ -1,4 +1,4 @@
-<img width="2170" height="725" alt="ChatGPT Image Sep 20, 2026, 11_27_51 PM" src="https://github.com/user-attachments/assets/2420e15c-bd3f-49b0-b0be-19f8dc28e7ce" />
+<img width="2170" height="725" alt="ChatGPT Image Sep 20, 2026, 11_27_51 PM" src="https://github.com/user-attachments/assets/2420e15c-bd3f-49b0-b0be-19f8dc28e7ce" /> 
 
 #  Hi, I'm Shariea Reza Nabil 👋
 
