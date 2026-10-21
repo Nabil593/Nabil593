@@ -1,4 +1,4 @@
-<img width="2170" height="725" alt="ChatGPT Image Sep 20, 2026, 11_27_51 PM" src="https://github.com/user-attachments/assets/2420e15c-bd3f-49b0-b0be-19f8dc28e7ce" /> 
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/7bb6901a-1b21-4789-99ac-bb4945ff387a" />
 
 #  Hi, I'm Shariea Reza Nabil 👋
 
@@ -6,6 +6,7 @@
 I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building production-ready, high-performance web applications using the MERN stack, Next.js, and TypeScript. I focus on clean UI aesthetics, optimized API responses, and smooth state management. Currently sharpening my skills in Full Stack development with the goal of becoming a high-level AI-powered software engineer.
 
 ---
+
 
 ## Tech Stack & Skills
 
