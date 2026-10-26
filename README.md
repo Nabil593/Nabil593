@@ -10,7 +10,20 @@
 
 Building thoughtful digital experiences with clean interfaces, modern web technologies, and practical problem-solving.
 
-[Portfolio](https://sharieanabil.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shariea-reza-nabil/) · [X](https://x.com/Nabilreza183) · [Email](mailto:nabilreza183@gmail.com)
+<p align="center">
+  <a href="https://sharieanabil.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-EFEFEF?style=for-the-badge&logo=vercel&logoColor=111111&labelColor=EFEFEF&color=EFEFEF" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shariea-reza-nabil/">
+    <img src="https://img.shields.io/badge/LinkedIn-EFEFEF?style=for-the-badge&logo=linkedin&logoColor=111111&labelColor=EFEFEF&color=EFEFEF" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Nabilreza183">
+    <img src="https://img.shields.io/badge/X/twitter-EFEFEF?style=for-the-badge&logo=x&logoColor=111111&labelColor=EFEFEF&color=EFEFEF" alt="X" />
+  </a>
+  <a href="mailto:nabilreza183@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EFEFEF?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=EFEFEF&color=EFEFEF" alt="Email" />
+  </a>
+</p>
 
 </div>
 
