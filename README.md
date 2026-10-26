@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/7bb6901a-1b21-4789-99ac-bb4945ff387a" />
+<img width="1584" height="396" alt="Orange and Green Modern Let&#39;s Work Together LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/7afad6d4-6472-4fe2-b0d5-33e6d2f322df" />
 
 #  Hi, I'm Shariea Reza Nabil 👋
 
