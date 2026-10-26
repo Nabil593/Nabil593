@@ -30,64 +30,7 @@ My current focus is growing as a full-stack engineer through hands-on projects, 
 - **AI integration:** Exploring practical ways to incorporate AI into useful web applications.
 
 Currently building with React, Next.js, TypeScript, Node.js, and MongoDB.
-
-## Selected Projects
-
-A selection of projects where I explore application architecture, user experience, and practical product development.
-
-### 01 — GymX
-
-**Gym Management Platform**
-
-A multi-role gym platform designed to support gym members, trainers, and administrators through a unified experience.
-
-- Role-oriented application workflows
-- Authentication with Better Auth and JWT
-- Membership and payment integration with Stripe
-- Forum functionality and responsive interfaces
-- Organized application structure and reusable UI components
-
-**Stack:** React · Node.js · Express · MongoDB · Better Auth · Stripe
-
-[Live Application](https://gymx-client.vercel.app/)
-
----
-
-### 02 — EcoTrack AI
-
-**AI-Powered Sustainability Platform**
-
-A sustainability application that explores carbon-footprint tracking, environmental insights, and AI-assisted recommendations.
-
-- Carbon-footprint tracking and analytics
-- AI-generated sustainability recommendations using Gemini
-- Data visualization with Recharts
-- Subscription and funding flows with Stripe
-- Authentication and persistent data management
-
-**Stack:** React · TypeScript · Node.js · MongoDB · Gemini · Recharts · Stripe
-
-[Live Application](https://ecotrack-olive-zeta.vercel.app/) · [Backend](https://ecotrack-server-one.vercel.app/)
-
----
-
-### 03 — StockWise
-
-**Smart Inventory Management System**
-
-An inventory management MVP developed to explore practical business workflows and AI-assisted inventory insights.
-
-- Product and inventory management
-- Stock movement tracking and history
-- User-specific inventory data
-- AI inventory assistant concept
-- Focus on clear information hierarchy and dashboard usability
-
-**Stack:** Next.js · TypeScript · React · API Integration
-
-[Live Application](https://stockwise-tan-five.vercel.app/)
-
----
+<br>
 
 ## Technology
 
@@ -160,8 +103,6 @@ I'm especially interested in:
 - **AI-powered software** — useful AI features integrated into real application workflows.
 - **Software architecture** — building applications that remain understandable as they grow.
 - **Product development** — turning ideas into useful, intuitive digital experiences.
-
-My long-term goal is to become a stronger engineer who can contribute to meaningful products and build technology that positively impacts people's lives.
 
 ---
 
