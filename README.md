@@ -6,7 +6,7 @@
 
 # Shariea Reza Nabil
 
-**Full-Stack Developer · UI-Focused Engineer**
+**Full-Stack Developer**
 
 Building thoughtful digital experiences with clean interfaces, modern web technologies, and practical problem-solving.
 
