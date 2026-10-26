@@ -1,83 +1,182 @@
-<img width="1584" height="396" alt="Orange and Green Modern Let&#39;s Work Together LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/7afad6d4-6472-4fe2-b0d5-33e6d2f322df" />
+ <!-- Replace Nabil593/README.md with this content in your GitHub profile README -->
 
-#  Hi, I'm Shariea Reza Nabil 👋
+<div align="center">
 
-## About Me
-I’m Shariea Reza Nabil, a MERN Stack developer dedicated to building production-ready, high-performance web applications using the MERN stack, Next.js, and TypeScript. I focus on clean UI aesthetics, optimized API responses, and smooth state management. Currently sharpening my skills in Full Stack development with the goal of becoming a high-level AI-powered software engineer.
+<img src="https://github.com/user-attachments/assets/7afad6d4-6472-4fe2-b0d5-33e6d2f322df" width="100%" alt="Shariea Reza Nabil — Developer Portfolio Banner" />
+
+# Shariea Reza Nabil
+
+**Full-Stack Developer · UI-Focused Engineer**
+
+Building thoughtful digital experiences with clean interfaces, modern web technologies, and practical problem-solving.
+
+[Portfolio](https://sharieanabil.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shariea-reza-nabil/) · [X](https://x.com/Nabilreza183) · [Email](mailto:nabilreza183@gmail.com)
+
+</div>
 
 ---
 
+## About
 
-## Tech Stack & Skills
+I'm a developer focused on building modern web applications that balance **functionality, performance, and thoughtful design**.
 
-#### Frontend & UI
+I enjoy turning ideas into intuitive digital products, creating clean and responsive interfaces, designing maintainable application architecture, and integrating AI-powered features where they add real value.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square\&logo=react\&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square\&logo=tailwind-css\&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square\&logo=react-router\&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square\&logo=framer\&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square\&logo=shadcnui\&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square\&logo=daisyui\&logoColor=white)
-![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat-square\&logo=nextui\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square\&logo=css3\&logoColor=white)
+My current focus is growing as a full-stack engineer through hands-on projects, continuous learning, and solving practical development problems.
 
-#### Backend & Database
+- **Frontend:** Responsive interfaces, component-driven development, UI consistency, and state management.
+- **Backend:** REST APIs, authentication, database modeling, and server-side application logic.
+- **Product thinking:** Usability, accessibility, performance, and attention to detail.
+- **AI integration:** Exploring practical ways to incorporate AI into useful web applications.
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square\&logo=express\&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square\&logo=mongodb\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02303A?style=flat-square\&logo=postman\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-2563EB?style=flat-square\&logo=authy\&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square\&logo=zod\&logoColor=white)
+Currently building with React, Next.js, TypeScript, Node.js, and MongoDB.
 
-#### DevOps & Tools
+## Selected Projects
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square\&logo=vercel\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374aa9c.svg?style=flat-square\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square\&logo=figma\&logoColor=white)
+A selection of projects where I explore application architecture, user experience, and practical product development.
 
+### 01 — GymX
 
+**Gym Management Platform**
 
-## Connect With Me
+A multi-role gym platform designed to support gym members, trainers, and administrators through a unified experience.
+
+- Role-oriented application workflows
+- Authentication with Better Auth and JWT
+- Membership and payment integration with Stripe
+- Forum functionality and responsive interfaces
+- Organized application structure and reusable UI components
+
+**Stack:** React · Node.js · Express · MongoDB · Better Auth · Stripe
+
+[Live Application](https://gymx-client.vercel.app/)
+
+---
+
+### 02 — EcoTrack AI
+
+**AI-Powered Sustainability Platform**
+
+A sustainability application that explores carbon-footprint tracking, environmental insights, and AI-assisted recommendations.
+
+- Carbon-footprint tracking and analytics
+- AI-generated sustainability recommendations using Gemini
+- Data visualization with Recharts
+- Subscription and funding flows with Stripe
+- Authentication and persistent data management
+
+**Stack:** React · TypeScript · Node.js · MongoDB · Gemini · Recharts · Stripe
+
+[Live Application](https://ecotrack-olive-zeta.vercel.app/) · [Backend](https://ecotrack-server-one.vercel.app/)
+
+---
+
+### 03 — StockWise
+
+**Smart Inventory Management System**
+
+An inventory management MVP developed to explore practical business workflows and AI-assisted inventory insights.
+
+- Product and inventory management
+- Stock movement tracking and history
+- User-specific inventory data
+- AI inventory assistant concept
+- Focus on clear information hierarchy and dashboard usability
+
+**Stack:** Next.js · TypeScript · React · API Integration
+
+[Live Application](https://stockwise-tan-five.vercel.app/)
+
+---
+
+## Technology
+
+I work across the frontend and backend, choosing tools based on the needs of the application.
+
+### Frontend & Interface
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=ffffff)
+![REST APIs](https://img.shields.io/badge/REST_APIs-333333?style=flat-square&logo=postman&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
+![Better Auth](https://img.shields.io/badge/Better_Auth-333333?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=ffffff)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=ffffff)
+
+---
+
+## Engineering Principles
+
+I care about the details that make software feel polished and work reliably.
+
+| Principle | What it means to me |
+|---|---|
+| Design clarity | Interfaces should feel intuitive, consistent, and uncluttered. |
+| Maintainability | Components and application logic should be easy to understand and extend. |
+| Performance | Fast, responsive experiences matter across devices and network conditions. |
+| Practical problem-solving | Features should solve real problems rather than add unnecessary complexity. |
+| Continuous learning | Every project is an opportunity to improve engineering judgment and execution. |
+
+## GitHub Activity
 
 <div align="center">
 
-| LinkedIn | Portfolio | Email | X / Twitter |
-| :---: | :---: | :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shariea-reza-nabil/) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharieanabil.vercel.app/) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilreza183@gmail.com) | [![X / Twitter](https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nabilreza183) |
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nabil593&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nabil593&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
 
+## Beyond the Code
 
+I'm especially interested in:
 
-## 📊 GitHub Stats
+- **Design engineering** — the intersection of frontend engineering, visual design, and product quality.
+- **AI-powered software** — useful AI features integrated into real application workflows.
+- **Software architecture** — building applications that remain understandable as they grow.
+- **Product development** — turning ideas into useful, intuitive digital experiences.
+
+My long-term goal is to become a stronger engineer who can contribute to meaningful products and build technology that positively impacts people's lives.
+
+---
+
 <div align="center">
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil593&theme=tokyonight&hide_border=true&bg_color=09090b" />
-</p>
-</div>
 
-<div align="center">
-  
-![GitHub Contribution Bar and Line Graph](https://gitactivitygraph.dev.cv/api/graph?username=Nabil593&type=combo&theme=custom&background=0d1117&text=e6edf3&border=30363d&labelColor=8d96a0&countColor=e6edf3&lineColor=ffffff&pointColor=39d353&pointBorderColor=0d1117&gridColor=8d96a0&barColor=1f6feb&fontSize=13&gridOpacity=30&barWidth=60&barRadius=8&barOpacity=90&showGridX=true)
+### Let's build something meaningful.
 
-</div>
+Open to opportunities in software engineering, frontend development, and full-stack development.
 
+[**Explore My Portfolio ↗**](https://sharieanabil.vercel.app/)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nabil593&style=flat-square&label=Total%20views" alt="Views" />
-</div>
+<sub>Designed with simplicity in mind. Built with curiosity and a commitment to continuous improvement.</sub>
+
 <br/>
-<div align="center">
-  <p><code>// Thanks for stopping by. Let's build something exceptional together. ✨</code></p>
+
+<img src="https://komarev.com/ghpvc/?username=Nabil593&style=flat-square&color=777777&label=Profile+Views" alt="GitHub profile views" />
+
 </div>
